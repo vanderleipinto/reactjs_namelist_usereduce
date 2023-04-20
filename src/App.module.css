@@ -1,0 +1,10 @@
+.movieImg {
+  width: 130px;
+  display: block;
+}
+
+.movieGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+}

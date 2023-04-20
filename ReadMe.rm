@@ -1,0 +1,13 @@
+# Lista de nomes usando ReactJS com foco em UseReduce.
+
+Projeto faz uso do useReduce para criar uma lista de nomes com ordenação e delete.
+
+Usa também o Tailwind
+
+### Instalação
+
+- `npm install`
+
+### Para rodar 
+
+- `npm run dev`
